@@ -1,0 +1,5 @@
+# Babel temporary files and caches
+node_modules/.cache/babel-loader/*.json
+
+# Eslint temporary files and caches
+node_modules/.cache/eslint/*.json
